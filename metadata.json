@@ -1,0 +1,5 @@
+{
+  "name": "MediInterpret AI",
+  "description": "A professional medical test result interpretation assistant using Gemini AI. Supports text and image analysis of lab reports with multi-turn conversation.",
+  "requestFramePermissions": []
+}
